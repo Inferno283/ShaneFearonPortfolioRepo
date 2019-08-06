@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLTutorialProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  skybox.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Texture.cpp
+  Shader.cpp
+  obj_loader.cpp
+  Mesh.cpp
+  main.cpp
+  Display.cpp
+  stb_image.c
+c:\users\shane\desktop\opengltutorialproject\opengltutorialproject\stb_image.c(300): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\shane\desktop\opengltutorialproject\opengltutorialproject\stb_image.c(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\shane\desktop\opengltutorialproject\opengltutorialproject\stb_image.c(400): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\shane\desktop\opengltutorialproject\opengltutorialproject\stb_image.c(4293): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  OpenGLTutorialProject.vcxproj -> C:\Users\Shane\Desktop\OpenGLTutorialProject\Debug\OpenGLProject.exe
+  OpenGLTutorialProject.vcxproj -> C:\Users\Shane\Desktop\OpenGLTutorialProject\Debug\OpenGLProject.pdb (Full PDB)

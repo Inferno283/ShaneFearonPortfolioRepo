@@ -1,0 +1,1 @@
+Please run OpenGLProject.exe from "OpenGL Testing Project/Debug"
